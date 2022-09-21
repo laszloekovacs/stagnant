@@ -13,6 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1>Hello world</h1>
+        <button>press this</button>
       </main>
     </div>
   )
